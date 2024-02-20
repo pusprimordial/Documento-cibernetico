@@ -150,3 +150,8 @@ p {
             position: absolute;
             margin-top: px;
         }
+
+.headertitle {
+    margin-left: 200px;
+    margin-right: 200px;
+}
