@@ -14,7 +14,7 @@ body
     align-items: center;
     min-height: 100vh;
     background: #cb7927;
-    background-repeat: no-repeat;
+    
     background-image: url("./assets/Tumblr_l_19029946299131.gif");
     background-size: 800px, 800px;
     cursor: url('./assets/cursor.png'),auto;
