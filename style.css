@@ -13,9 +13,9 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #cb7927;
+    background: #5a5a5a;
     background-repeat: no-repeat;
-    background-image: url(https://64.media.tumblr.com/163c55893ee684405fe99b284635b0e7/b5c33d6efdd1868f-a1/s250x400/1fcdb834fd2d4215c5f81985ec90608c25ee4840.gifv);
+    /*background-image: url(https://64.media.tumblr.com/163c55893ee684405fe99b284635b0e7/b5c33d6efdd1868f-a1/s250x400/1fcdb834fd2d4215c5f81985ec90608c25ee4840.gifv);*/
     background-size: 700px 700px;
     background-repeat: no-repeat;
 }
@@ -109,6 +109,7 @@ p {
 .headertitle {
     position: absolute; margin-top: 190px;
     padding: 10px;
+    
 }
 
 @media (min-width: 600px) {
